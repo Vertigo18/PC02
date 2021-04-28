@@ -15624,6 +15624,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\CuentaDeUsuario\\IniciarSesion.cshtml",
+      "TargetPath": "Views\\CuentaDeUsuario\\IniciarSesion.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\CompraDeProductosServicios\\ResumenDeCompra copy.cshtml",
+      "TargetPath": "Views\\CompraDeProductosServicios\\ResumenDeCompra copy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\CompraDeProductosServicios\\PagarCompra.cshtml",
+      "TargetPath": "Views\\CompraDeProductosServicios\\PagarCompra.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15634,8 +15649,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\VentadeProductosyServicios\\ProductosDestacados copy.cshtml",
+      "TargetPath": "Views\\VentadeProductosyServicios\\ProductosDestacados copy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\VentadeProductosyServicios\\CatalogoCompleto.cshtml",
+      "TargetPath": "Views\\VentadeProductosyServicios\\CatalogoCompleto.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\ServiciosyProductos\\Index.cshtml",
+      "TargetPath": "Views\\ServiciosyProductos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\Contacto\\Nuevo.cshtml",
+      "TargetPath": "Views\\Contacto\\Nuevo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\CuentaDeUsuario\\ActualizarPerfil.cshtml",
+      "TargetPath": "Views\\CuentaDeUsuario\\ActualizarPerfil.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15646,6 +15686,11 @@
     {
       "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\BACKUPS\\DOCS\\0AUSMP 2021I\\programacion teoria\\REP PRACTICA02\\PC02\\PC02\\Views\\QuienesSomos\\Index.cshtml",
+      "TargetPath": "Views\\QuienesSomos\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
